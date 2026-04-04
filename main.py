@@ -2,7 +2,7 @@
 import torch
 from PIL import Image
 import torchvision.transforms as transforms
-
+# 2510114 배정윤 
 class Net(torch.nn.Module):
     def __init__(self):
         super().__init__()
