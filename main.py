@@ -1,4 +1,4 @@
-
+#내 이름은 배정윤이고 4월 18일에 수정했어
 import torch
 from PIL import Image
 import torchvision.transforms as transforms
