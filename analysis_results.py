@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 from kernel_utils import VideoReader, FaceExtractor, confident_strategy, predict_on_video_set
 import os
-
+#우헤헤 뭐가 뭔지 하나도 모르겠다
 test_path = '/home/yjheo/Deepfake/dataset/dfdc_facebook/test/labels.csv'
 test_dir = '/home/yjheo/Deepfake/dataset/dfdc_facebook/test'
 label = pd.read_csv(test_path)
